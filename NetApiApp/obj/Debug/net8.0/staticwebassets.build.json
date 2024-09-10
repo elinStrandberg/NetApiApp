@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rXxB0TuQzNllV54ykv3OpM1BGZ6UhiBDCt9RJcbzvCc=",
+  "Source": "NetApiApp",
+  "BasePath": "_content/NetApiApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
